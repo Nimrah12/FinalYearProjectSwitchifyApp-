@@ -11,12 +11,11 @@
 //Provide the RTDB payload printing info and other helper functions.
 #include "addons/RTDBHelper.h"
 
-#define USER_EMAIL "nimmii@gmail.com"
-#define USER_PASSWORD "1212001n"
+//Insert your account credentials here
 
-// Insert your network credentials
-#define WIFI_SSID "VM0519925"
-#define WIFI_PASSWORD "kJu5fjhz2ufJ"
+
+// Insert your network credentials here
+
 
 // Insert Firebase project API Key
 #define API_KEY "AIzaSyB_G8FCIQdkj_hZbEKd0gzNyYbVadrQHP4"
