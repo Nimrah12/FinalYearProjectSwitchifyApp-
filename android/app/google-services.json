@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "385161216420",
+    "firebase_url": "https://fir-button-5ddf8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-button-5ddf8",
+    "storage_bucket": "fir-button-5ddf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385161216420:android:b7df1482df404758a0c131",
+        "android_client_info": {
+          "package_name": "com.example.firebasebutton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_G8FCIQdkj_hZbEKd0gzNyYbVadrQHP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
